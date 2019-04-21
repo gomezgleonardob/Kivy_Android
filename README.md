@@ -49,5 +49,5 @@ python -m http.server 8000
 localhost:8000
 ~~~~
 
-# Documentación de KIKY
+# Documentación de KIVY
 [Kivy](https://kivy.org/doc/stable/gettingstarted/intro.html)
