@@ -50,4 +50,4 @@ localhost:8000
 ~~~~
 
 # Documentación de KIKY
-[Kivy] (https://kivy.org/doc/stable/gettingstarted/intro.html)
+[Kivy](https://kivy.org/doc/stable/gettingstarted/intro.html)
