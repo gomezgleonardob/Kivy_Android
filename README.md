@@ -17,7 +17,16 @@ Canales de Youtube con tutoriales de Kivy.
 
 El ebook esta en la carpeta /ebooks del repositorio.
 
-# Slides
+
+# Slides Online
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/437fed38-d25a-48b4-b566-276c43d686f7/deploy-status)](https://app.netlify.com/sites/pythonkivy/deploys)
+
+[Slides](https://pythonkivy.netlify.com)
+
+
+
+# Slides Local
 
 Están realizados con Reveal.js para correrlos debemos seguir los siguientes pasos.
 
@@ -51,3 +60,5 @@ localhost:8000
 
 # Documentación de KIVY
 [Kivy](https://kivy.org/doc/stable/gettingstarted/intro.html)
+
+
