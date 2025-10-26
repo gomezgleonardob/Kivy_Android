@@ -22,7 +22,7 @@ El ebook esta en la carpeta /ebooks del repositorio.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/437fed38-d25a-48b4-b566-276c43d686f7/deploy-status)](https://app.netlify.com/sites/pythonkivy/deploys)
 
-[Slides](https://https://inspiring-syrniki-6b4c4b.netlify.app/#/1)
+[Slides](https://https://inspiring-syrniki-6b4c4b.netlify.app/)
 
 
 
